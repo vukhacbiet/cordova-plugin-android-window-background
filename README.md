@@ -3,6 +3,9 @@
 This is a simple plugin for Android which will set the window background color for you app's MainActivity to a color of your choice.
 This allows you to avoid the standard dark grey background which will flash for a second before your splash screen appears. Set the color to the same background as your splash screen for a smoother start-up effect.
 
+## My Update
+Update To Default Android Theme.
+
 ## Installation
 
 You'll need to set your desired window background color while installing the plugin by supplying the `WINDOW_BACKGROUND_COLOR` variable. Set it to whatever you want, preferrably the same color as your splash screen.
